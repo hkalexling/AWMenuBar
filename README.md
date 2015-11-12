@@ -47,10 +47,10 @@ Example code to handle the call back:
 	    //...
 	
         //use buttonTapped to handle button click call back
-	      func buttonTapped(sender: UIButton) {
-		      print ("\(sender.currentTitle!) tapped")
-		      self.awMenuBar.closeMenu()
-	      }
-      }
+      	func buttonTapped(sender: UIButton) {
+		    print ("\(sender.currentTitle!) tapped")
+		    self.awMenuBar.closeMenu()
+		}
+    }
 
 
