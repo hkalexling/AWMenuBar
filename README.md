@@ -8,7 +8,7 @@ iOS implement of [This Dribbble concept design](https://dribbble.com/shots/19546
 
 ###Installation:
 
-Simply drag and drop the [AWMenuBarView.swift(https://github.com/hkalexling/AWMenuBar/blob/master/AWMenuBar/AWMenuBarView.swift) into your project
+Simply drag and drop the [AWMenuBarView.swift](https://github.com/hkalexling/AWMenuBar/blob/master/AWMenuBar/AWMenuBarView.swift) into your project
 
 ###Useage:
 
