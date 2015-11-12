@@ -2,6 +2,8 @@
 
 iOS implement of [This Dribbble concept design](https://dribbble.com/shots/1954664-CSS-Menu-Animations)
 
+Written in Swift 2.1
+
 ###Demo GIF:
 
 ![](https://github.com/hkalexling/AWMenuBar/blob/master/AWMenuBar.gif)
@@ -23,6 +25,11 @@ Simply drag and drop the [AWMenuBarView.swift](https://github.com/hkalexling/AWM
 		    self.view.backgroundColor = UIColor(red: 51/255, green: 86/255, blue: 136/255, alpha: 1)
 		    self.awMenuBar.backgroundColor = UIColor(red: 58/255, green: 95/255, blue: 149/255, alpha: 1)
             self.awMenuBar.menuBackGroundColor = UIColor.whiteColor()
+            
+            //Customise the animation duration for the button
+            self.awMenuBar.animationDuration = NSTimeInterval(0.5)
+            //Customise the animation duration for the scaling effect of the circle
+            self.awMenuBar.scaleDuration = NSTimeInterval(0.8)
     
             //Add as many buttons as you need
 		    let baseY : CGFloat = 180
