@@ -53,4 +53,8 @@ Example code to handle the call back:
 		}
     }
 
+###Todo:
+
+- [ ] Implement other two effects ( [Parallex](http://codepen.io/virgilpana/full/dPKavr/) and [Split](http://codepen.io/virgilpana/full/wBXNJM/) )
+
 
